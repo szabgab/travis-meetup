@@ -1,2 +1,2 @@
 language: minimal
-script: echo Hello World
+script: ls foobar
