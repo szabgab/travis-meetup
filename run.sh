@@ -1,3 +1,4 @@
+set -e
 echo Hello World
 python -V
 python3 -V
